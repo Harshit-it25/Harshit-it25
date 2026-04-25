@@ -42,7 +42,7 @@
 ### 🧬 [Decision DNA](https://github.com/Harshit-it25/decision-dna)
 > AI Monitoring & Explainability Dashboard for Credit Risk Models
 
-- 📊 Trained on ~5,000 loan applicants — Random Forest: **94%** | Logistic Regression: **92%**
+- 📊 Trained on ~1,00,000 loan applicants — Random Forest: **94%** | Logistic Regression: **92%**
 - 🔍 Drift detection using **Population Stability Index (PSI)**
 - 🧠 Explainable AI using **SHAP**
 - 🛡️ Adversarial threat classification — Low, Medium, High risk
