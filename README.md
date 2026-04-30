@@ -1,100 +1,170 @@
 # Hi, I'm Harshit Ranbhare 👋
 
-> *I build AI systems that don't stop at the model.*
+### 🤖 AI/ML Student | IT Systems & Intelligent Infrastructure
+
+> *I build intelligent systems with a strong foundation in IT — focusing on scalable, reliable, and production-ready AI solutions.*
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Second-year **B.Tech IT** student at **MIT Vishwaprayag University**
-- 🔌 Background in **ENTC & Embedded Systems** — I think about AI as infrastructure, not just models
-- 📡 Currently studying **Computer Networks** — understanding how intelligent systems communicate and scale
-- 🤖 Self-teaching **AI, LLMs, RAG, MLOps & ML** — entirely outside my college curriculum, driven by deep interest
-- 🏭 Former **Test Technician at Jabil** — real hands-on hardware and electronics experience
+I am an AI/ML student passionate about solving real-world problems using data, machine learning, and intelligent systems.
+I focus on building systems that go beyond models — integrating deployment, monitoring, and infrastructure.
 
----
-
-## 🛠️ Tech Stack
-
-**AI & ML**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-
-**LLMs & RAG**
-![LLM](https://img.shields.io/badge/LLMs-FF6B6B?style=flat)
-![RAG](https://img.shields.io/badge/RAG-4ECDC4?style=flat)
-![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
-
-**Backend & Deployment**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-**Hardware & IoT**
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-ESP8266-red?style=flat)
+* 🎓 B.Tech in Information Technology (2028 Expected)
+* ⚙️ Background in Electronics & Embedded Systems
+* 🤖 Focus: Machine Learning, Deep Learning, LLMs, RAG
+* 🚀 Interest: AI systems, infrastructure, and real-world deployment
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧬 [Decision DNA](https://github.com/Harshit-it25/decision-dna)
-> AI Monitoring & Explainability Dashboard for Credit Risk Models
+### 🔹 Decision DNA — AI Governance & Monitoring System
 
-- 📊 Trained on ~1,00,000 loan applicants — Random Forest: **94%** | Logistic Regression: **92%**
-- 🔍 Drift detection using **Population Stability Index (PSI)**
-- 🧠 Explainable AI using **SHAP**
-- 🛡️ Adversarial threat classification — Low, Medium, High risk
-- ⚙️ **Stack:** Python · FastAPI · React · TypeScript · Scikit-learn · Gemini API · PostgreSQL
+* Drift detection using PSI
+* SHAP-based explainability
+* Adversarial threat classification
+* Governance layer with audit trails
 
----
-
-### 💊 [VitaAI](https://github.com/Harshit-it25/vitaai)
-> AI-Powered Multilingual Healthcare Chatbot
-
-- 🔗 Built on **RAG pipeline** for contextual accuracy
-- 🌍 Multilingual support for diverse user groups
-- 🎯 **~90% accuracy** in intent classification and contextual retrieval
-- ⚙️ **Stack:** Python · LLM APIs · RAG Architecture · FastAPI · NLP · Scikit-learn
+**Stack:** Python • FastAPI • React/TypeScript • SHAP • Scikit-learn • Gemini API
+🔗 https://github.com/Harshit-it25/Decision-DNA
 
 ---
 
-### 🏛️ Civic AI
-> AI & ML-Powered Civic Complaint Analysis and Management System
+### 🔹 VitaAI — Multilingual Healthcare Chatbot
 
-- 🗂️ NLP-based complaint classification pipeline
-- 📍 Hotspot and priority zone detection using unsupervised clustering
-- ⚙️ **Stack:** Python · Scikit-learn · NLP · FastAPI · React · Pandas
+* RAG-powered system with ~90% intent accuracy
+* Context-aware medical reasoning using LLMs
 
----
-
-### 🌾 Smart Farming System
-> IoT-Based Automated Irrigation & Remote Monitoring
-
-- 💧 Automated irrigation based on real-time soil moisture thresholds
-- 📡 Remote monitoring via **Firebase + Android App**
-- ⚙️ **Stack:** Arduino Uno · ESP8266 · DHT11 · Firebase · Android
+**Stack:** Python • LLMs • RAG • NLP
+🔗 https://github.com/Harshit-it25/VitaAI
 
 ---
 
-## 📜 Certifications
+### 🔹 Civic AI — Complaint Intelligence System
 
-- 🏅 Generative AI and LLMs — **IBM**
-- 🏅 Claude Code in Action — **Anthropic**
-- 🏅 Machine Learning in Production — **DeepLearning.AI**
-- 🏅 AI Infrastructure & Operations Fundamentals — **NVIDIA**
-- 🏅 AWS Cloud Practitioner Essentials — **Amazon AWS**
-- 🏅 Machine Learning Using Python — **Infosys Springboard**
-- 🏅 Introduction to AI — **Google**
+* Automated complaint classification
+* Geographic hotspot detection
+
+**Stack:** Python • NLP • Machine Learning
 
 ---
 
-## 📬 Connect With Me
+### 🔹 Smart Farming System — IoT Irrigation Automation 🌱
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harshit_Ranbhare-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-ranbhare-911b43306)
-[![Email](https://img.shields.io/badge/Email-harshitranbhare@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:harshitranbhare@gmail.com)
+* Automated irrigation + remote monitoring
+* Published research: *Modern Farming*
+
+**Stack:** Arduino • ESP8266 • Firebase • IoT
 
 ---
 
-*"Interest is what starts learning. Building is what proves it."*
+### 🔹 Fractional SIR Model + LSTM
+
+* Computational epidemic modeling
+* AI-based prediction using LSTM
+
+---
+
+### 🔹 Research-AI Autonomous Agent
+
+* Experimental autonomous AI agent system
+* Self-directed task execution & adaptive reasoning
+* Combines LLMs with agent architectures
+
+**Stack:** Python • LLMs • Autonomous Agents • AI Systems
+🔗 https://github.com/Harshit-it25/Research-Ai-Autonomous-agent
+
+---
+
+## ## 🛠️ Tech Stack
+
+**AI & ML**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+**LLMs & RAG**
+
+![LLM](https://img.shields.io/badge/LLMs-FF6B6B?style=flat)
+
+![RAG](https://img.shields.io/badge/RAG-4ECDC4?style=flat)
+
+![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat&logo=google&logoColor=white)
+
+**Backend & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+
+**Hardware & IoT**
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+
+![IoT](https://img.shields.io/badge/IoT-ESP8266-red?style=flat)
+
+---
+
+---
+
+## 📜 Publications
+
+* 📄 **Modern Farming** — IoT-based smart irrigation system
+* 📄 **Decision DNA** — AI Governance Framework *(Under Review)*
+* 📄 **Fractional-Order SIR Model using LSTM** *(Under Review)*
+
+---
+
+## 🎓 Education
+
+| Qualification  | Institution                 | Score    | Year      |
+| -------------- | --------------------------- | -------- | --------- |
+| B.Tech (IT)    | MIT Vishwaprayag University | Pursuing | 2028      |
+| Diploma (ENTC) | MSBTE                       | 75%      | Completed |
+| SSC            | Maharashtra State Board     | 77.40%   | 2022      |
+
+---
+
+## 📚 Certifications
+
+* Data Analytics Essentials
+* Claude Code in Action (Anthropic)
+* Introduction to Data Science
+* IT Essentials
+* Machine Learning in Production
+* Apply AI: Analyze Customer Reviews
+* Introduction to Modern AI
+* IBM • NVIDIA • AWS • DeepLearning.AI
+
+---
+
+## 🌐 Connect With Me
+
+* 📧 [harshitranbhare@gmail.com](mailto:harshitranbhare@gmail.com)
+* 🔗 https://linkedin.com/in/harshitranbhare-911b43306
+* 💻 https://github.com/Harshit-it25
+* 📱 9529452147
+
+---
+
+## 🎯 Future Goals
+
+* 🤖 Build production-grade AI systems
+* ⚙️ Work on scalable AI infrastructure & governance
+
+---
+
+## 💡 Philosophy
+
+> “AI is not just about models — it’s about systems that work reliably in the real world.”
+
+---
+
+⭐ *Always building. Always learning.*
